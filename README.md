@@ -16,5 +16,4 @@ Push the files to GitHub and enable GitHub Pages:
 Settings → Pages → Deploy from Branch → main → /(root)
 
 Your game will be live at:
-
-https://YOUR_USERNAME.github.io/REPOSITORY_NAME/
+https://s3yonkul.github.io/Blackjack-website
