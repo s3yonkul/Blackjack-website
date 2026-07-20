@@ -6,6 +6,12 @@ let player = [];
 let dealer = [];
 let gameOver = true;
 
+let bankroll = Number(localStorage.getItem("bankroll")) || 1000;
+
+let bet = 0;
+
+document.getElementById("money").textContent="$"+bankroll;
+
 const playerCards = document.getElementById("playerCards");
 const dealerCards = document.getElementById("dealerCards");
 
