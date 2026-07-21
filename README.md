@@ -58,7 +58,7 @@ main
 Your game will be available at:
 
 
-https://
+https://](https://s3yonkul.github.io/Blackjack-website/
 
 
 ## 🛠 Built With
